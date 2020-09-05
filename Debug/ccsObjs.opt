@@ -1,0 +1,1 @@
+"./SRF05.obj" "./UART.obj" "./clock.obj" "./ele.obj" "./lcd1602.obj" "./main.obj" "../lnk_msp430f169.cmd" -llibc.a 
